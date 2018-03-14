@@ -1,0 +1,28 @@
+{
+  "_resolved": "https://registry.npmjs.org/api-ripper/-/api-ripper-1.0.16.tgz",
+  "author": "",
+  "bin": {
+    "apiripper": "./lib/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/freezestanley/apiripper/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "exec-sh": "^0.2.1"
+  },
+  "deprecated": false,
+  "description": "api - json => vue",
+  "homepage": "https://github.com/freezestanley/apiripper#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "api-ripper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freezestanley/apiripper.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.16"
+}
